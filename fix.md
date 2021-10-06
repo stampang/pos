@@ -7,6 +7,6 @@
 3. cmd를 입력하거나(Windows 10 이상), 실행을 클릭하고 cmd를 입력합니다.(Windows 7 이하)
 4. 명령 프롬프트가 나타나면 ipconfig /flushdns 를 입력합니다.
 
-## XP에서 관리자 연결이 되지 않습니다.
+## XP/Pos Ready 2009에서 관리자 연결이 되지 않습니다.
 
 [다운로드](root_update.zip) 하여 압축을 풀고 Cert_Updater_v1.6.exe를 실행합니다. (재부팅 필수)
